@@ -3,3 +3,7 @@
 "validation after clone" 
 "validation after clone" 
 "validation after clone" 
+"validation before pull request" 
+"validation before pull request" 
+"validation before pull request" 
+"validation before pull request" 
