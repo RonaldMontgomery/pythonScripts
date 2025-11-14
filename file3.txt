@@ -9,3 +9,4 @@
 "omg it works!" 
 "i am going to eat a pizza" 
 "final commit" 
+"validation after clone" 
