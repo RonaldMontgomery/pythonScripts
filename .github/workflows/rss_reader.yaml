@@ -1,0 +1,21 @@
+name: RSS Reader Digest
+
+on:
+  # Run every day at 11:00 UTC (~4 AM America/Denver in winter)
+  schedule:
+    - cron: "0 11 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch: {}
+
+jobs:
+  run-rss-reader:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+      ...
+
+::contentReference[oaicite:0]{index=0}
